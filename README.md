@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, world! I am Francielly. Welcome!
 
-<!--
-**Franciielly/Franciielly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Franciielly&show_icons=true&hide=contribs,issues&theme=dracula&rank_icon=github"/>&nbsp;
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciielly&hide=html,css&theme=dracula&layout=compact&hide_progress=true"/> 
+</div>
+<!--Icons-->
+<div>
+  <h2>Technologies:</h2>
+  <img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="max-width:100%;"/>
+  <img align="center" alt="Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="max-width:100%;"/>
+  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="max-width:100%;"/>
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="max-width:100%;"/>
+</div>
